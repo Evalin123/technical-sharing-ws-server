@@ -5,8 +5,9 @@ A simple demo by using Socket.io.
 ## Technologies
 Project is created with:
 * JavaScript
-* [React](https://reactjs.org/)
+* [Node JS](https://nodejs.org/en/)
 * [Socket.io](https://socket.io/)
+* [Express](https://expressjs.com/)
 
 ## Setup
 To run this project, install it locally using yarn:
