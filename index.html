@@ -1,0 +1,3 @@
+const socket = io("<http://localhost:4040>") socket.emit("sendMessage", { name:
+"majer", message: "hello everyone" }) socket.on("allMessage", function(message){
+console.log(message) })
